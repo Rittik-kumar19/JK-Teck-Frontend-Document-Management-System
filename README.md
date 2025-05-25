@@ -90,17 +90,3 @@ src/
   Coverage output: `coverage/`
 
 ---
-
-## 🤝 Contributing
-
-1. Fork this repo
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to your branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-MIT — see the [LICENSE](LICENSE) file for details.
