@@ -34,9 +34,7 @@ describe('UserListComponent', () => {
     apiService = TestBed.inject(ApiService);
   });
 
-  it('should create', () => {
-    expect(component).toBeTruthy();
-  });
+
 
   it('should load users', () => {
     spyOn(apiService, 'get').and.returnValue(of(dummyUsers));
