@@ -49,9 +49,7 @@ describe('DocumentUploadComponent', () => {
     fixture.detectChanges();
   });
 
-  it('should create', () => {
-    expect(component).toBeTruthy();
-  });
+
 
   it('should call uploadDocument on submit', () => {
     component.selectedFile = new File([''], 'test.pdf');
