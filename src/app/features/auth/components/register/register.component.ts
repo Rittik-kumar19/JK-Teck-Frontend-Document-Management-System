@@ -322,7 +322,7 @@ export class RegisterComponent {
         },
         error: (error) => {
           console.error('Registration failed:', error);
-          // Handle registration error (show error message)
+          
         },
       });
     }
