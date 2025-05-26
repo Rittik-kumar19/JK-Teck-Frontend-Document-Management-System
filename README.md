@@ -2,13 +2,7 @@
 
 A modern, user-friendly document management system built with Angular (frontend) and FastAPI (backend).
 
----
-
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Angular](https://img.shields.io/badge/Angular-17+-red?logo=angular)](https://angular.io/)
-[![Node.js](https://img.shields.io/badge/Node.js-18+-green?logo=node.js)](https://nodejs.org/)
-
----
+----
 
 ## 🚀 Quick Start
 
