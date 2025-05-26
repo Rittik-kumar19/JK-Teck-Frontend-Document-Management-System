@@ -284,7 +284,7 @@ import { UserRole } from '../../../../core/models/user.model';
           margin-bottom: 16px;
         }
         .auth-input {
-          font-size: 0.98rem;
+          font-size: 0.97rem;
           padding: 10px 10px;
           height: 44px;
         }
