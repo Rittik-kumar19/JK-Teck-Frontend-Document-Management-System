@@ -134,7 +134,7 @@ export class UserEditComponent implements OnInit {
         },
         error: (error) => {
           console.error('Error updating user:', error);
-          // Handle error (show error message)
+
         }
       });
     }
