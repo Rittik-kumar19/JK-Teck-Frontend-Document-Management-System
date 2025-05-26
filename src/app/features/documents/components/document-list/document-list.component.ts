@@ -168,7 +168,7 @@ export class DocumentListComponent implements OnInit {
         },
         error: (error) => {
           console.error('Error deleting document:', error);
-          // Handle error (show error message)
+
         },
       });
     }
